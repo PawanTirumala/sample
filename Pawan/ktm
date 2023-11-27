@@ -1,1 +1,3 @@
-360rpm
+#!/bin/bash
+echo "hello"
+ls -ltr
